@@ -15,7 +15,7 @@ Add this package to your Swift project using Swift Package Manager:
 
 ```swift
 dependencies: [
-    .package(url: "path/to/any-crypto-swift", from: "1.0.0")
+    .package(url: "https://github.com/anyproto/any-crypto-swift", from: "1.0.0")
 ]
 ```
 
